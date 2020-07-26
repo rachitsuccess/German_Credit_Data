@@ -1,3 +1,3 @@
-# <font color='blue' font/> German_Credit_Data
+# <font color ='cyan'/>  German Credit Analysis
 
 <img src='Data/credit.jpg' width = 700>
